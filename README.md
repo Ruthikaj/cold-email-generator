@@ -91,10 +91,3 @@ This tool is a **game-changer** for service companies aiming to streamline cold 
 
 ---
 
-## 📜 License
-
-This software is licensed under the MIT License. However, **commercial use** of this software is **strictly prohibited** without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
-
----
-
-This README is designed to make your project stand out with its innovative use of technology and real-world application, leaving a lasting impression on interviewers.
