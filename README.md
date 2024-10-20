@@ -27,7 +27,8 @@ This tool enables service companies like Atliq to **save time, improve targeting
 
 ## 🏗️ Architecture Diagram
 
-![Architecture](img.png)
+![Architecture](![architecture](https://github.com/user-attachments/assets/ddd61c2a-a7f4-4b40-98f7-1d6d76ecc541)
+)
 
 This diagram outlines how the system flows from URL input, job listing scraping, dynamic email generation, and vector database integration for portfolio matching.
 
